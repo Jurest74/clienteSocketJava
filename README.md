@@ -1,5 +1,6 @@
 # clienteSocketJava
 Aplicación Cliente en java que se conecta a un servidor desplegado en aws solicitando el resultado de una operación, conexión tcp por medio de sockets.
+<h6>Con el objetivo de poder valdiar el funcionamiento puede ejecutarlo en: https://paiza.io/projects/-da3Z_eJKGKQztH2OxqhXQ</h6>
 
 <h1>Modo de ejecución</h1>
 
