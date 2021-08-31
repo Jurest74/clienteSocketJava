@@ -26,7 +26,7 @@ Este proyecto fue desarrollado en NetBeans (Puede descargarlo en https://netbean
 
 ![image](https://user-images.githubusercontent.com/43093044/131439768-8efeac23-1251-4224-acd2-5eaa7fef2c85.png)
 
-<h3>Nota: Para correr el proyecto y hacer los calculos debes tener en cuenta lo siguiente:</h3>
+<h3>Nota: Para correr el proyecto y hacer los cálculos debes tener en cuenta lo siguiente:</h3>
 
 El servidor recibe un string con 3 datos separados por "," de la siguiente manera:
 <h5>"5,9,sum"</h5>
